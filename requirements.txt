@@ -1,0 +1,2 @@
+pulsectl==16.4.15
+pywatchman==1.3.0
