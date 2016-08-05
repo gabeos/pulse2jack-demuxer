@@ -5,3 +5,4 @@ __pycache__/
 .pydevproject
 .project
 .venv
+_vimrc_local.vim
